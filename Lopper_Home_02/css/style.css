@@ -167,13 +167,15 @@ body {
 
 .subheader_arrow {
     margin: 20px 0 0 75px;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
-    width: 14.5px;
-    height: 0px;
-    padding: 24px 17.5px 24px 17.5px;
     background: rgba(196, 196, 196, 0.02);
     border: 1px solid rgba(255, 255, 255, 0.1);
-    border-radius: 25px;
+    border-radius: 50%;
 }
 
 
