@@ -1,0 +1,89 @@
+
+/* Обычный */
+@font-face {
+	font-family: 'Post No Bills Jaffna';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Post No Bills Jaffna'), url('../fonts/PostNoBillsJaffna-Regular.ttf') format('truetype');
+}
+
+/* Тонкий */
+@font-face {
+	font-family: 'Post No Bills Jaffna';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Post No Bills Jaffna'), url('../fonts/PostNoBillsJaffna-Light.ttf') format('truetype');
+}
+
+/* Средний */
+@font-face {
+	font-family: 'Post No Bills Jaffna';
+	font-style: normal;
+	font-weight: 500;
+	src: local('Post No Bills Jaffna'), url('../fonts/PostNoBillsJaffna-Medium.ttf') format('truetype');
+}
+
+/* Полужирный */
+@font-face {
+	font-family: 'Post No Bills Jaffna';
+	font-style: normal;
+	font-weight: 600;
+	src: local('Post No Bills Jaffna'), url('../fonts/PostNoBillsJaffna-SemiBold.ttf') format('truetype');
+}
+
+/* Жирный */
+@font-face {
+	font-family: 'Post No Bills Jaffna';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Post No Bills Jaffna'), url('../fonts/PostNoBillsJaffna-Bold.ttf') format('truetype');
+}
+
+/* Супержирный */
+@font-face {
+	font-family: 'Post No Bills Jaffna';
+	font-style: normal;
+	font-weight: 800;
+	src: local('Post No Bills Jaffna'), url('../fonts/PostNoBillsJaffna-ExtraBold.ttf') format('truetype');
+}
+
+/* Обычный */
+@font-face {
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Playfair Display'), url('../fonts/PlayfairDisplay-Regular.ttf') format('truetype');
+}
+
+
+/* Средний */
+@font-face {
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 500;
+	src: local('Playfair Display'), url('../fonts/PlayfairDisplay-Medium.ttf') format('truetype');
+}
+
+/* Полужирный */
+@font-face {
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 600;
+	src: local('Playfair Display'), url('../fonts/PlayfairDisplay-SemiBold.ttf') format('truetype');
+}
+
+/* Жирный */
+@font-face {
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Playfair Display'), url('../fonts/PlayfairDisplay-Bold.ttf') format('truetype');
+}
+
+/* Супержирный */
+@font-face {
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 800;
+	src: local('Playfair Display'), url('../fonts/PlayfairDisplay-ExtraBold.ttf') format('truetype');
+}
